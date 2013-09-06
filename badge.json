@@ -5,10 +5,10 @@
 	    	"salt": "",
 	    	"identity": "carlos.amigo@gmail.com"
   	},
-  	"badge": "https://github.com/carlosoliboniamigo/testegit/blob/master/badgeclass.json",
+  	"badge": "https://raw.github.com/carlosoliboniamigo/testegit/master/badgeclass.json",
   	"verify": {
     		"type": "hosted",
-    		"url": "https://github.com/carlosoliboniamigo/testegit/blob/master/badge.json"
+    		"url": "https://raw.github.com/carlosoliboniamigo/testegit/master/badge.json"
   	}
   	"issuedOn": 2013-09-06,
   	
